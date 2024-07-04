@@ -318,4 +318,5 @@ export default class ToDoList {
 
 ## OUTPUT
 
+![output](https://github.com/SmritiManikand/Es6-JavaScript-assignment/assets/113674204/b76234b0-41d7-4e73-94eb-80867c0fbfbc)
 
